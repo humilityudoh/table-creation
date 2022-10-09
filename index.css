@@ -49,6 +49,9 @@ tr:hover{
     table{
         width: 50%;
     }
+    th,td{
+        padding: 7px;
+    }
 }
 
 
